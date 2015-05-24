@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Matthew Arbesfeld
+email:       arbesfeld@gmail.com
+author:      Matthew Arbesfeld
+description: "Matthew Arbesfeld's personal webpage."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://localhost:4000"
 
 # Google analytics
 google_analytics:
@@ -45,7 +45,7 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-markdown:     redcarpet
+markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 sass:

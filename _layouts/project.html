@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="small-12 medium-7 large-7 columns">
+    <h2>{{page.title}}</h2>
+    <p>
+      {{page.summary | markdownify}}
+    </p>
+  </div>
+  <div class="small-12 medium-5 large-5 columns">
+    <div class="lined-list">
+      <ul>
+        <li><strong>Team:</strong> {{page.team}}</li>
+        {% if page.awards != nil %}
+          <li><strong>Awards:</strong> {{page.awards}}</li>
+        {% endif %}
+        <li><strong>Year:</strong> {{page.date | date: '%Y'}}</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+    {{content}}
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+    <p class="back-to-top-holder"><a class="back-to-top"><i class="fa fa-chevron-circle-up fa-3x"></i></a></p>
+  </div>
+</div>
