@@ -4,10 +4,10 @@ email:       arbesfeld@gmail.com
 author:      Matthew Arbesfeld
 description: "Matthew Arbesfeld's personal webpage."
 baseurl:     ""
-url:         "http://localhost:4000"
+url:         "http://www.arbesfeld.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-27801400-2
 
 # Optional features
 animated:           false

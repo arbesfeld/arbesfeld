@@ -2,20 +2,15 @@
 layout: default
 title: Blog
 order: 3
-nav: true
 ---
 
-<div>
-  <div class="row first-row">
-    {% for post in site.posts %}
-      {% if post.categories contains 'blog' %}
-      <article>
-        <h1><a href="{{post.name}}.html">{{post.title}}</a></h1>
-        <h6 class="date">{{post.time | data_to_long_string}}</h6>
-        <p>{{post.summary}}</p>
-        <p><a href="{{post.name}}.html">Continue reading &rarr;</a></p>
-      </article>
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
+{% for post in site.posts %}
+  {% if post.categories contains 'blog' %}
+  <article>
+    <h1><a href="{{post.name}}.html">{{post.title}}</a></h1>
+    <h6 class="date">{{post.time | data_to_long_string}}</h6>
+    <p>{{post.summary}}</p>
+    <p><a href="{{post.name}}.html">Continue reading &rarr;</a></p>
+  </article>
+  {% endif %}
+{% endfor %}
