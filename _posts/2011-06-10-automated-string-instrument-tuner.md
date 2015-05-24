@@ -9,7 +9,7 @@ awards:     1st place - Massachusetts State Science and Engineering Fair
 categories: project
 ---
 
-{% include video.html src='https://www.youtube.com/embed/X6Sef_D2_PM?' %}
+{% include video.html src='https://www.youtube.com/embed/X6Sef_D2_PM?' caption='Watch it with sound :)' %}
 <br>
 {% include image.html src='/images/projects/tuner/whole-tuner.jpg' caption='Exterior of device. The black box in the center of the image contains the processing unit of the tuner and the white PVC pipe on the left is the hand-held unit which is placed over the tuning pegs of an instrument.' %}
 <br>

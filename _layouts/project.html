@@ -12,9 +12,14 @@ layout: default
   <div class="small-12 medium-5 large-5 columns">
     <div class="lined-list">
       <ul>
-        <li><strong>Team:</strong> {{page.team}}</li>
+        {% if page.team != nil %}
+          <li><strong>Team:</strong> {{page.team}}</li>
+        {% endif %}
         {% if page.awards != nil %}
           <li><strong>Awards:</strong> {{page.awards}}</li>
+        {% endif %}
+        {% if page.link-href != nil %}
+          <li><strong>Link:</strong> <a href="{{page.link-href}}">{{page.link-desc}}</a></li>
         {% endif %}
         <li><strong>Year:</strong> {{page.date | date: '%Y'}}</li>
       </ul>
@@ -24,6 +29,7 @@ layout: default
 
 <div class="row">
   <div class="small-12 medium-12 large-12 columns">
+    <hr class="project-detail-hr" />
     {{content}}
   </div>
 </div>

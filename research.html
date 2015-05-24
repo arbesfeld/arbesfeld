@@ -1,0 +1,26 @@
+---
+layout: default
+title: Research
+order: 1
+nav: true
+---
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+    <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 inline-list-custom">
+      {% for post in site.posts %}
+        {% if post.categories contains 'research' %}
+          <li>
+            <div class="thumbnail">
+              <div class="thumbnail-img">
+                <div class="thumbnail-hover"><a href="{{ post.url }}"></a></div>
+                <a href="{{ post.url }}"><img src="images/projects/{{ post.image }}" alt="{{ post.title }}" /></a>
+              </div>
+              <div class="thumbnail-caption"><a class="caption-link" href="{{ post.url }}">{{ post.title }}</a></div>
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
