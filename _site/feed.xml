@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Arbesfeld</title>
+    <description>Matthew Arbesfeld&#39;s personal webpage.</description>
+    <link>http://www.arbesfeld.com/</link>
+    <atom:link href="http://www.arbesfeld.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Interactive Cubes</title>
+        <description>&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WcWkncOCfkw?modestbranding=1&amp;amp;autohide=1&amp;amp;showinfo=0&amp;amp;controls=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cubes/cube-acrylic.jpg&quot; alt=&quot;The sides of each cube are cut from 1/8 inch acrylic and attach with press-fit joints.&quot; /&gt;
+  &lt;h6&gt;The sides of each cube are cut from 1/8 inch acrylic and attach with press-fit joints.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cubes/cube-connector.jpg&quot; alt=&quot;Cubes attach to each other via magnets which are placed into 3d-printed housings that sit inside of each face.&quot; /&gt;
+  &lt;h6&gt;Cubes attach to each other via magnets which are placed into 3d-printed housings that sit inside of each face.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cubes/cube-board.jpg&quot; alt=&quot;Custom-milled board for each cube.&quot; /&gt;
+  &lt;h6&gt;Custom-milled board for each cube.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cubes/cube-psoc5.jpg&quot; alt=&quot;A single Cypress PSoC 5LP was used in each cube and attached via mountings to the circuit board.&quot; /&gt;
+  &lt;h6&gt;A single Cypress PSoC 5LP was used in each cube and attached via mountings to the circuit board.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cubes/cube-assembly.jpg&quot; alt=&quot;Final assembly of a cube.&quot; /&gt;
+  &lt;h6&gt;Final assembly of a cube.&lt;/h6&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 24 May 2015 08:31:12 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2015/05/24/interactive-cubes.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2015/05/24/interactive-cubes.html</guid>
+      </item>
+    
+      <item>
+        <title>Cluck (iOS)</title>
+        <description>&lt;h3 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h3&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cluck/cluck-1.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cluck/cluck-2.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/cluck/cluck-3.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;press&quot;&gt;Press&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bostinno.streetwise.co/2015/02/25/free-texting-app-resolves-issues-with-text-notifications/&quot;&gt;BostInno&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.idigitaltimes.com/cluck-real-time-messaging-app-thats-cross-between-calling-and-texting-420179&quot;&gt;iDigitalTimes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 12:31:12 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2015/05/01/cluck.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2015/05/01/cluck.html</guid>
+      </item>
+    
+      <item>
+        <title>DIY Sous-vide</title>
+        <description>&lt;h3 id=&quot;pictures&quot;&gt;Pictures&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/sous-vide/device.jpg&quot; alt=&quot;Sous-vide in action: cooking eggs.&quot; /&gt;
+  &lt;h6&gt;Sous-vide in action: cooking eggs.&lt;/h6&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;food&quot;&gt;FOOD&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/sous-vide/egg.jpg&quot; alt=&quot;Egg at 76C for 1 hour.&quot; /&gt;
+  &lt;h6&gt;Egg at 76C for 1 hour.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/sous-vide/burger.jpg&quot; alt=&quot;Burger at 57C for 1 hour.&quot; /&gt;
+  &lt;h6&gt;Burger at 57C for 1 hour.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/sous-vide/slicing-steak.jpg&quot; alt=&quot;Steak at 56C for 90 minutes.&quot; /&gt;
+  &lt;h6&gt;Steak at 56C for 90 minutes.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/sous-vide/steak-potato.jpg&quot; alt=&quot;Yummy&quot; /&gt;
+  &lt;h6&gt;Yummy&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;press&quot;&gt;Press&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://makezine.com/2014/12/17/diy-sous-vide-cooker/&quot;&gt;Makezine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cookingchanneltv.com/2014/12/18/bluetooth-sous-vide/&quot;&gt;Cooking Channel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foodbeast.com/news/this-college-junior-made-a-perfect-steak-via-bluetooth/&quot;&gt;Foodbeast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 30 Dec 2014 07:31:12 -0500</pubDate>
+        <link>http://www.arbesfeld.com/project/2014/12/30/sous-vide.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2014/12/30/sous-vide.html</guid>
+      </item>
+    
+      <item>
+        <title>Marble Drop (iOS / Android)</title>
+        <description>&lt;h3 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h3&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/marble-drop/marble-drop-1.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/marble-drop/marble-drop-2.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/marble-drop/marble-drop-3.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/marble-drop/marble-drop-4.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;press&quot;&gt;Press&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://indiegameenthusiast.blogspot.com/2014/07/ios-review-81-marble-drop_25.html&quot;&gt;Indie Game Enthusiast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bostinno.streetwise.co/all-series/marble-drop-puzzle-app-for-iphone-and-android-download-marble-drop/&quot;&gt;BostInno&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bcgavel.com/2014/07/29/marbledrop-the-newest-addictive-gaming-app/&quot;&gt;Bcgavel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://venturefizz.com/blog/marble-drop-mit-competition-produces-trendy-game&quot;&gt;VentureFizz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 30 Aug 2014 08:31:12 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2014/08/30/marble-drop.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2014/08/30/marble-drop.html</guid>
+      </item>
+    
+      <item>
+        <title>Meteor for Mobile</title>
+        <description>&lt;div class=&quot;centered&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4dJLPLWMImw?modestbranding=1&amp;amp;autohide=1&amp;amp;showinfo=0&amp;amp;controls=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 01 Jul 2014 12:31:12 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2014/07/01/meteor-for-mobile.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2014/07/01/meteor-for-mobile.html</guid>
+      </item>
+    
+      <item>
+        <title>Collaborative Whiteboard</title>
+        <description>&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AK3EiFUfRPg?modestbranding=1&amp;amp;autohide=1&amp;amp;showinfo=0&amp;amp;controls=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/collaborative-whiteboard/whiteboard-2.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/collaborative-whiteboard/whiteboard-3.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 31 Dec 2013 07:31:12 -0500</pubDate>
+        <link>http://www.arbesfeld.com/project/2013/12/31/collaborative-whiteboard.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2013/12/31/collaborative-whiteboard.html</guid>
+      </item>
+    
+      <item>
+        <title>Kiwi</title>
+        <description>&lt;h3 id=&quot;kiwi-examples&quot;&gt;Kiwi Examples&lt;/h3&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/kiwi/jenga.jpg&quot; alt=&quot;All of these Jenga towers were generated from the same 8 lines of Kiwi code.&quot; /&gt;
+  &lt;h6&gt;All of these Jenga towers were generated from the same 8 lines of Kiwi code.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/kiwi/asteroid.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/kiwi/tree.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/kiwi/weird-thing.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/kiwi/hair.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Dec 2013 07:31:12 -0500</pubDate>
+        <link>http://www.arbesfeld.com/project/2013/12/30/kiwi.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2013/12/30/kiwi.html</guid>
+      </item>
+    
+      <item>
+        <title>Synced (iOS)</title>
+        <description>&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/synced/synced.png&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 10 Aug 2013 08:31:12 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2013/08/10/synced.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2013/08/10/synced.html</guid>
+      </item>
+    
+      <item>
+        <title>Expanding Objects</title>
+        <description>&lt;h3 id=&quot;a-namekitea-expanding-kite&quot;&gt;&lt;a name=&quot;kite&quot;&gt;&lt;/a&gt; Expanding Kite&lt;/h3&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/expanding-kites/expanding.gif&quot; alt=&quot;Watch out for bandits!&quot; /&gt;
+  &lt;h6&gt;Watch out for bandits!&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/expanding-kites/nadya-kite.jpg&quot; alt=&quot;Nadya flies the kite / the kite flies Nadya.&quot; /&gt;
+  &lt;h6&gt;Nadya flies the kite / the kite flies Nadya.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-nameautomated-designa-automated-expanding-linkage-design-tool&quot;&gt;&lt;a name=&quot;automated-design&quot;&gt;&lt;/a&gt; Automated Expanding-Linkage Design Tool&lt;/h3&gt;
+
+&lt;p&gt;I built an iPad app that lets users create expanding linkages like these:&lt;/p&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/expanding-kites/expanding-linkage.gif&quot; alt=&quot;&quot; /&gt;
+  &lt;h6&gt;&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/expanding-kites/ipad-slide.jpg&quot; alt=&quot;Draw out any shape on the iPad, and the laser cutter will automatically cut out parts for an expanding linkage.&quot; /&gt;
+  &lt;h6&gt;Draw out any shape on the iPad, and the laser cutter will automatically cut out parts for an expanding linkage.&lt;/h6&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 10 May 2013 08:31:12 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2013/05/10/expanding-kites.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2013/05/10/expanding-kites.html</guid>
+      </item>
+    
+      <item>
+        <title>Automated Instrument Tuner</title>
+        <description>&lt;div class=&quot;centered&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/X6Sef_D2_PM??modestbranding=1&amp;amp;autohide=1&amp;amp;showinfo=0&amp;amp;controls=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;h6&gt;Watch it with sound :)&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/tuner/whole-tuner.jpg&quot; alt=&quot;Exterior of device. The black box in the center of the image contains the processing unit of the tuner and the white PVC pipe on the left is the hand-held unit which is placed over the tuning pegs of an instrument.&quot; /&gt;
+  &lt;h6&gt;Exterior of device. The black box in the center of the image contains the processing unit of the tuner and the white PVC pipe on the left is the hand-held unit which is placed over the tuning pegs of an instrument.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/tuner/tuner-interior.jpg&quot; alt=&quot;Interior of device showing the Arduino microcontroller and custom printed circuit board.&quot; /&gt;
+  &lt;h6&gt;Interior of device showing the Arduino microcontroller and custom printed circuit board.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;img src=&quot;/images/projects/tuner/tuner-interior-2.jpg&quot; alt=&quot;Another image of the device&#39;s interior.&quot; /&gt;
+  &lt;h6&gt;Another image of the device&#39;s interior.&lt;/h6&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2011 08:31:19 -0400</pubDate>
+        <link>http://www.arbesfeld.com/project/2011/06/10/automated-string-instrument-tuner.html</link>
+        <guid isPermaLink="true">http://www.arbesfeld.com/project/2011/06/10/automated-string-instrument-tuner.html</guid>
+      </item>
+    
+  </channel>
+</rss>
