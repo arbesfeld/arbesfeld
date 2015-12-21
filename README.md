@@ -1,7 +1,7 @@
 ## Developing
 
-`jekyll server`
+`jekyll serve`
 
 ## Deploying
 
-`cd _site && firebase deploy`
+`firebase deploy`
