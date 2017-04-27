@@ -1,9 +1,11 @@
 {
-  "firebase": "arbesfeld",
-  "public": "_site",
-  "ignore": [
-    "firebase.json",
-    "**/.*",
-    "**/node_modules/**"
-  ]
+  "firebase": "arbesfeld-47d8b",
+  "hosting": {
+    "public": "_site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
 }
