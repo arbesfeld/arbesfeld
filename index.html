@@ -11,10 +11,10 @@ nav: true
       <li>
         <div class="thumbnail">
           <div class="thumbnail-img">
-            <div class="thumbnail-hover"><a href="{{ post.url }}"></a></div>
-            <a href="{{ post.url }}"><img src="images/projects/{{ post.image }}" alt="{{ post.title }}" /></a>
+            <div class="thumbnail-hover"><a href="{{ post.url_redirect | default: post.url }}"></a></div>
+            <a href="{{ post.url_redirect | default: post.url }}"><img src="images/projects/{{ post.image }}" alt="{{ post.title }}" /></a>
           </div>
-          <div class="thumbnail-caption"><a class="caption-link" href="{{ post.url }}">{{ post.title }}</a></div>
+          <div class="thumbnail-caption"><a class="caption-link" href="{{ post.url_redirect | default: post.url }}">{{ post.title }}</a></div>
         </div>
       </li>
     {% endif %}
